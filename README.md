@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Chaitra G
 
-<!--
-**chaitra-rgb/chaitra-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Machine Learning Enthusiast
+
+📊 Learning Data Science & Generative AI
+
+📍 Bangalore, India
+
+---
+
+## About Me
+
+- BE CSE Student
+- Passionate about AI & Machine Learning
+- Building projects in Python, SQL and ML
+- Currently learning RAG, LangChain and FAISS
+
+---
+
+## Skills
+
+### Programming
+- Python
+- SQL
+
+### Machine Learning
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### Data Visualization
+- Power BI
+- Excel
+
+### Generative AI
+- LangChain
+- FAISS
+- RAG
+
+---
+
+## Current Goal
+
+Become a Machine Learning Engineer and build impactful AI solutions.
